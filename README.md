@@ -18,3 +18,13 @@ Note: flex and bison are required.
 ```
 
 This command will compile [pattern/should-pass.cmm](pattern/should-pass.cmm) and generate output.s.
+
+# Runing
+
+[cross compile](https://askubuntu.com/questions/250696/how-to-cross-compile-for-arm)
+
+
+
+
+
+
